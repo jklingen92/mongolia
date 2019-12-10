@@ -44,7 +44,6 @@ setup(
     url = "https://github.com/zagaran/mongolia",
     install_requires = [
         "pymongo >= 3.0",
-        "unittest2>=1.1.0",
         "python-dateutil >= 2.6.0",
         "future >= 0.16.0",
     ],
